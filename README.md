@@ -1,0 +1,3 @@
+- this project is not complete.
+- uses a flask web server as a backdoor mechnaism.
+- to interact, it uses custom headers and a preset password. 
